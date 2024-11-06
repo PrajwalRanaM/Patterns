@@ -1,4 +1,4 @@
-Please read this for navigation, open in raw
+Please read this for navigation, open in raw or in any text editing mode
 
 solving some basic patterns
 
