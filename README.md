@@ -1,3 +1,5 @@
+Please read this for navigation
+
 solving some basic patterns
 
 pattern1 
