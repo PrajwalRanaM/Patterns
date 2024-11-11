@@ -31,3 +31,9 @@ pattern4 (increasing number triangle)
   1 2 3
   1 2 3 4
 
+pattern5 (reverse increasing number triangle)
+  for n=4
+  1 2 3 4 
+  1 2 3
+  1 2
+  1
