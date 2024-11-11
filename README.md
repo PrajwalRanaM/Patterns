@@ -37,3 +37,10 @@ pattern5 (reverse increasing number triangle)
   1 2 3
   1 2
   1
+
+pattern6 (number increasing triangle)
+  for n=4
+  1
+  2 3
+  4 5 6
+  7 8 9 10
