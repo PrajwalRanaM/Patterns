@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class pattern7 {
+public class Pattern7 {
     private static void pat7(int num){
-        for( int i=1;i<6;i++){
-            for(int j=1;j<6;j++){
+        for( int i=1;i<num+1;i++){
+            for(int j=1;j<num+1;j++){
                 if(i==j||(i+j)==num+1)
                     System.out.print(j);
                 else
@@ -13,7 +13,7 @@ public class pattern7 {
     }
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
-        System.out.println("enter a number to draw cross: ");
+        System.out.print("enter a odd number to draw cross: ");
         int num=obj.nextInt();
         pat7(num);
     }
