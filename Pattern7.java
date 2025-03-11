@@ -6,8 +6,9 @@ public class pattern7 {
                 if(i==j||(i+j)==num+1)
                     System.out.print(j);
                 else
-                    System.out.println();
+                    System.out.print(" ");
             }
+            System.out.println();
         }
     }
     public static void main(String[] args) {
